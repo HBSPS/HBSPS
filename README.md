@@ -1,4 +1,4 @@
-<p align="center">Skills</p>
+<h2 align="center">Skills</h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -19,7 +19,7 @@
 <br>
 <br>
 
-<p align="center">Contact</p>
+<h2 align="center">Contact</h2>
 
 <div align="center">
 <a href="mailto:wiyeong79@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
