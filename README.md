@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=200&section=header&text=HBSPS&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=200&section=header&text=HBSPS&fontColor=FFFFFF&fontAlignY=35&fontSize=50&animation=twinkling"/>
 
 <h2 align="center">:books: Skills</h2>
 <div align="center">
