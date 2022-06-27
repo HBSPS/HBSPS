@@ -14,7 +14,7 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBSPS&layout=compact)](https://github.com/HBSPS/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBSPS&layout=compact)](https://github.com/HBSPS/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo9310)](https://solved.ac/seo9310)
 
 </div>
 
