@@ -54,7 +54,6 @@
 <a href="mailto:wiyeong79@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 <a href="mailto:wiyeong79@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>
 <a href="https://www.instagram.com/we__r_young/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
-<a href="https://29223.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>
 </div>
 
 <br>
