@@ -26,6 +26,8 @@
 <h2 align="center">:wrench: Tools</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-185886?style=flat-square&logo=Linux&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
