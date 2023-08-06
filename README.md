@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=99CCFF&height=200&section=header&text=HBSPS&fontColor=FFFFFF&fontAlignY=35&fontSize=50&animation=twinkling"/>
 
-<h2 align="center">:books: Skills</h2>
+<h3 align="center">Skills</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -23,44 +23,22 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HBSPS&layout=compact)](https://github.com/HBSPS/github-readme-stats) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seo9310)](https://solved.ac/seo9310)
 
-</div>
+<h3>Activity</h3>
 
-<br>
-<br>
+|<center>활동명</center>|<center>기간</center>|<center>내용</center>|
+|---|---|---|
+|[중앙대학교](https://www.cau.ac.kr/index.do)|2019.03 ~|산업보안학과 2-019.03 ~<br>사이버보안 융합전공 2019.09 ~|
+|[UMC](https://www.makeus.in/umc)|2022.03 ~ 2022.08|UMC 2기 중앙대 (NodeJS 백엔드)|
+|[PwC 컨설팅](https://www.pwcconsulting.co.kr/ko/)|2022.07 ~ 2022.08|S카드 IT 컨설팅 (코드 인스펙션) - RA(Research Assistant)|
+|[SECURIOUS](https://www.instagram.com/cau_securious/)|2023.01 ~|중앙대학교 산업보안학과 교육봉사 동아리 (개발트랙)<br>개발트랙장 2023.03 ~|
+|[네이버 부스트캠프](https://boostcamp.connect.or.kr/)|2023.07 ~ 2023.08|네이버 부스트캠프 웹・모바일 8기 챌린지 (웹 풀스택)|
 
-<h2 align="center">:wrench: Tools</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-185886?style=flat-square&logo=Linux&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white">
-<img src="https://img.shields.io/badge/DataGrip-000000?style=flat-square&logo=DataGrip&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
-</div>
-
-<br>
-<br>
-
-<h2 align="center">:pencil2: Studying</h2>
-<div align="center">
-<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
-</div>
-
-<br>
-<br>
-
-<h2 align="center">:telephone_receiver: Contact</h2>
+<h3 align="center">Contact</h3>
 
 <div align="center">
 <a href="mailto:wiyeong79@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
-<!--<a href="mailto:wiyeong79@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"></a>-->
 <a href="https://www.instagram.com/we__r_young/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></a>
+<a href="https://29223.tistory.com/"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat-square&logo=storyblok&logoColor=white"></a>
 </div>
 
 <br>
