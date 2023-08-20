@@ -27,7 +27,7 @@
 
 |<center>활동명</center>|<center>기간</center>|<center>내용</center>|
 |---|---|---|
-|[중앙대학교](https://www.cau.ac.kr/index.do)|2019.03 ~|산업보안학과 2-019.03 ~<br>사이버보안 융합전공 2019.09 ~|
+|[중앙대학교](https://www.cau.ac.kr/index.do)|2019.03 ~|산업보안학과 2019.03 ~<br>사이버보안 융합전공 2019.09 ~|
 |[UMC](https://www.makeus.in/umc)|2022.03 ~ 2022.08|UMC 2기 중앙대 (NodeJS 백엔드)|
 |[PwC 컨설팅](https://www.pwcconsulting.co.kr/ko/)|2022.07 ~ 2022.08|S카드 IT 컨설팅 (코드 인스펙션) - RA(Research Assistant)|
 |[SECURIOUS](https://www.instagram.com/cau_securious/)|2023.01 ~|중앙대학교 산업보안학과 교육봉사 동아리 (개발트랙)<br>개발트랙장 2023.03 ~|
