@@ -27,12 +27,12 @@
 
 |<center>활동명</center>|<center>기간</center>|<center>내용</center>|
 |---|---|---|
-|[중앙대학교](https://www.cau.ac.kr/index.do)|2019.03 ~|산업보안학과 2019.03 ~<br>사이버보안 융합전공 2019.09 ~|
-|[UMC](https://www.makeus.in/umc)|2022.03 ~ 2022.08|UMC 2기 중앙대 (NodeJS 백엔드)|
-|[PwC 컨설팅](https://www.pwcconsulting.co.kr/ko/)|2022.07 ~ 2022.08|S카드 IT 컨설팅 (코드 인스펙션) - RA(Research Assistant)|
-|[SECURIOUS](https://www.instagram.com/cau_securious/)|2023.01 ~|중앙대학교 산업보안학과 교육봉사 동아리 (개발트랙)<br>개발트랙장 2023.03 ~|
+|[네이버 부스트캠프](https://boostcamp.connect.or.kr/)|2023.08 ~ 2023.12|네이버 부스트캠프 웹・모바일 8기 멤버십 (웹 프론트엔드)|
 |[네이버 부스트캠프](https://boostcamp.connect.or.kr/)|2023.07 ~ 2023.08|네이버 부스트캠프 웹・모바일 8기 챌린지 (웹 풀스택)|
-|[네이버 부스트캠프](https://boostcamp.connect.or.kr/)|2023.08 ~ 2023.12|네이버 부스트캠프 웹・모바일 8기 멤버십 (웹 풀스택)|
+|[SECURIOUS](https://www.instagram.com/cau_securious/)|2023.01 ~|중앙대학교 산업보안학과 교육봉사 동아리 (개발트랙)<br>개발트랙장 2023.03 ~|
+|[PwC 컨설팅](https://www.pwcconsulting.co.kr/ko/)|2022.07 ~ 2022.08|S카드 IT 컨설팅 (코드 인스펙션) - RA(Research Assistant)|
+|[UMC](https://www.makeus.in/umc)|2022.03 ~ 2022.08|UMC 2기 중앙대 (NodeJS 백엔드)|
+|[중앙대학교](https://www.cau.ac.kr/index.do)|2019.03 ~|산업보안학과 2019.03 ~<br>사이버보안 융합전공 2019.09 ~|
 
 <h3 align="center">Contact</h3>
 
